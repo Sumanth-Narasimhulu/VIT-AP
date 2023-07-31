@@ -1,0 +1,156 @@
+<div class="col-md-4 mt-2">
+                <div class="card  mt-2  h-100 border">
+
+                    <div class="card-img-top">
+                        <div class="ratio ratio-4x3">
+                            <img src="./VISH-Card.jpg" alt="" class="img-fluid rounded">
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="card-header">
+                        <h2 class="text-success"><i class="fa fa-flask"></i>&nbsp;VIT-AP School of Advanced Sciences
+                            (SAS)</h2>
+
+                    </div>
+                    <div class="card-body">
+                        <h5 class="text-muted">
+                            <li>
+                                Dual Degree Programme -Bsc. M.sc. Data Scince in Collaboration with Binghamton
+                                University,USA & QpiAi,India Pvt.Ltd.
+                            </li>
+                            <li>
+                                Msc. Data Scince in collaboration with Binghmton University , USA &QpiAI,India Pvt.Ltd.
+
+                            </li>
+                            <li>
+                                M.Sc. Chemistry in collaboration with MKCI
+                                M.Sc. Chemistry
+                            </li>
+                            
+                        </h5>
+
+
+
+
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-grid">
+                            <button class="btn btn-dark" style="box-shadow: 5px 5px 10px #fff;">
+                                Know More
+
+                            </button>
+
+                        </div>
+
+
+
+
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-md-4">
+                <div class="card  mt-2  h-100 border">
+
+                    <div class="card-img-top">
+                        <div class="ratio ratio-4x3">
+                            <img src="./scope.jpg" alt="" class="img-fluid rounded">
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="card-header">
+                        <h2 class="text-success"><i class="fa fa-laptop"></i>&nbsp;VIT-AP School Of Computer Sciences</h2>
+
+                    </div>
+                    <div class="card-body">
+                        <h5 class="text-muted">
+                            B.Tech. CSE
+                            B.Tech. CS & Business Systems
+                            (in collaboration with TCS)
+                            M.Tech. (5 year integrated)
+                            Software Engineering
+                            M.Tech. (5 year integrated) CSE
+                            (in collaboration with VIRTUSA)
+                        </h5>
+
+
+
+
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-grid">
+                            <button class="btn btn-dark" style="box-shadow: 5px 5px 10px #fff;">
+                                Know More
+
+                            </button>
+
+                        </div>
+
+
+
+
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-md-4">
+                <div class="card  mt-2  h-100 border">
+
+                    <div class="card-img-top">
+                        <div class="ratio ratio-4x3">
+                            <img src="./VSB-Card_2.jpg" alt="" class="img-fluid rounded">
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="card-header">
+                        <h2 class="text-success"><i class="fa fa-briefcase"></i>&nbsp;VIT-AP School of Business</h2>
+
+                    </div>
+                    <div class="card-body">
+                        <h5 class="text-muted">
+                            BBA <br>
+                            B.Com.(Finance)
+                           
+                        </h5>
+
+
+
+
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-grid">
+                            <button class="btn btn-dark" style="box-shadow: 5px 5px 10px #fff;">
+                                Know More
+
+                            </button>
+
+                        </div>
+
+
+
+
+
+                    </div>
+
+                </div>
+
+                
+                
+
+            </div>
